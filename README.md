@@ -16,4 +16,4 @@
 
 <!-- github profile statistics -->
 
-[![Matthis's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tt1-Coder?show=prs_merged,prs_merged_percentage?show_icons=true?theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthis's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tt1-Coder&show=prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
